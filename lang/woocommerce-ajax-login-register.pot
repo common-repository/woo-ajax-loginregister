@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce AJAX Login/Register\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-23 06:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-ajax-login-register.php:70
+#: woocommerce-ajax-login-register.php:145
+#: woocommerce-ajax-login-register.php:264
+#: woocommerce-ajax-login-register.php:297
+msgid "Please fill all required fields."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:70
+msgid "Please Enter valid email."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:103
+#: woocommerce-ajax-login-register.php:159
+#: woocommerce-ajax-login-register.php:207
+msgid "Loading..."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:120
+#: woocommerce-ajax-login-register.php:180
+#: woocommerce-ajax-login-register.php:224
+msgid "Your captcha is invalid. Please try again."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:141
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:189
+msgid "Check your inbox for instructions how to set new password."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:192
+msgid "Invalid username or email."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:256
+#: woocommerce-ajax-login-register.php:289
+msgid "Account created successfully. redirecting..."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:322
+msgid "Do not you want to be protected? Make it stronger!"
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:325
+msgid ""
+"Hint: The password should be at least 11 characters long. To make it "
+"stronger, use upper and lower case letters, numbers, and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:327
+msgid ""
+"Hint: The password should be at least 9 characters long. To make it stronger,"
+" use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )"
+"."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:329 includes/settings.php:48
+msgid ""
+"Hint: The password should be at least 7 characters long, and should contain "
+"letters and numbers."
+msgstr ""
+
+#: woocommerce-ajax-login-register.php:519
+#: woocommerce-ajax-login-register.php:534
+#: woocommerce-ajax-login-register.php:548
+msgid "Enter captcha code"
+msgstr ""
+
+#: includes/settings.php:42
+msgid "Woocommerce Ajax Login/Register"
+msgstr ""
+
+#: includes/settings.php:47
+msgid "Required registration password strength"
+msgstr ""
+
+#: includes/settings.php:62
+msgid "Captcha Enable/Disable"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ajax Login/Register for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Woocommerce Ajax login/register (addon / plugin) is allows you to login and "
+"register using Ajax and add jquery validation."
+msgstr ""

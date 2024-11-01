@@ -1,0 +1,75 @@
+.register_msg.success, .login_msg.success {
+	color: #618f83;
+	background: none;
+}
+.register_msg.fail, .login_msg.fail {
+	color: #ed3636;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.login_msg {
+	display: none;
+}
+.woocommerce-password-hint {
+	white-space: pre-line;
+	margin-top: 5px;
+}
+.woocommerce-password-strength.short, .woocommerce-password-strength.bad {
+	color: #FF0000;
+}
+.woocommerce-password-strength.strong {
+	color: #4BB543;
+}
+.woocommerce-password-strength.good {
+	color: #1e90ff;
+}
+.woocommerce-password-strength.short:after, .woocommerce-password-strength.bad:after {
+	content: "🙁";
+	padding-left: 5px;
+}
+.woocommerce-password-strength.good:after {
+	content: "😐";
+	padding-left: 5px;
+}
+.woocommerce-password-strength.strong:after {
+	content: "🙂";
+	padding-left: 5px;
+}
+.input-success-icon {
+	background: #fff url(../images/input_checkbox.png) center right no-repeat;
+}
+.input-failure-icon {
+	background: #fff url(../images/input_cross.png) center right no-repeat;
+}
+.rtl .input-failure-icon {
+	background: #fff url(../images/input_cross.png) center left no-repeat;
+}
+.rtl .input-success-icon {
+	background: #fff url(../images/input_checkbox_rtl.png) center left no-repeat;
+}
+.form-captcha-row input {
+	float: left;
+	width: 180px;
+	margin-left: 20px;
+}
+.form-captcha-row .fl-wrap-input input {
+	width: 100%;
+	margin-left: 0;
+}
+.form-captcha-row .fl-wrap-input {
+	float: left;
+	width: 180px;
+	margin-left: 20px;
+}
+.captcha_img {
+	float: left;
+}
+.rtl .captcha_img {
+	float: right;
+}
+.form-captcha-row:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
